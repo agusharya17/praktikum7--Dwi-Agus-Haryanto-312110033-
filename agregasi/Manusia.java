@@ -1,5 +1,4 @@
 package agregasi;
-
 public class Manusia {
     public String merk;
     public Komputer Mesin;
@@ -7,7 +6,6 @@ public class Manusia {
     public Manusia (Komputer e){
         Mesin = e;
     }
-
 
     public void powerON(){
         Mesin.powerON();
@@ -18,6 +16,6 @@ public class Manusia {
     }
     
     public void run(){
-        System.out.println("Komputer sedang menyala - aktive");
+        System.out.println("Komputer sedang menyala - aktive by Manusia");
     }
 }

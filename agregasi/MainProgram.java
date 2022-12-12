@@ -7,13 +7,12 @@ public class MainProgram {
         Komputer Mesin = new Komputer();
         
         /* Memanggil atribut dan nilai*/
-        Mesin.merk = "with GT$ 5000 HD";
-        Mesin.Processor = "Intel i9 12100 U";
+        Mesin.merk = "5000 HD";
         Mesin.Keluaran = 2021;
         
         Manusia Agus = new Manusia(Mesin);
         
-        Agus.merk = "Asus ITX 100i";
+        Agus.merk = "Asus ITX";
         Agus.Mesin = Mesin;
         Agus.powerON();
         Agus.run();
