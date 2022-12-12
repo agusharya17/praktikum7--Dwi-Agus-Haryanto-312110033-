@@ -28,7 +28,23 @@ Hasil Programnya :
 
 Gambar Diagramnya :
 
+B. Association
 
+C. Agregation
+1. Hubungan agregasi serupa dengan asosiasi, yaitu memiliki sebuah atribut dengan tipe dari class lain.
+2. Namun hubungan diperkuat dengan adanya dependensi pada konstruktornya.
+3. hubungan “has-a” yang menyatakan bahwa sebuah kelas memiliki hubungan dengan kelas lainnya.'
+Programnya (dari Kelas Relasi + Source Code dibawah ini) :
+- MainProgram.java
+![image](https://user-images.githubusercontent.com/31887335/207021626-95374d6f-76ee-4a8a-92a7-e175195fdf5a.png)
+- Manusia.java
+![image](https://user-images.githubusercontent.com/31887335/207021767-1011fc37-7c26-4cf6-8788-2a6821a72193.png)
+Hasil Programnya :
+![image](https://user-images.githubusercontent.com/31887335/207021962-0fbbacd6-8e0a-4a23-8e54-4f990adeabd0.png)
+Gambar Diagram Class nya :
+![image](https://user-images.githubusercontent.com/31887335/207020741-0a06c9dc-5af0-40f8-9ac3-432d3a774d4d.png)
+
+D. Composition
 
 
 
