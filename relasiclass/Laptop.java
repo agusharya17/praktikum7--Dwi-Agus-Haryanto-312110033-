@@ -1,4 +1,4 @@
-package relasiclass;
+package komposisi;
 
 public interface Laptop{
     public powerON();

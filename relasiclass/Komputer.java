@@ -1,7 +1,7 @@
-package relasiclass;
+package komposisi;
 
 public class Komputer implements Laptop{
-    public String merk,Processor;
+    public String merk;
     public int Keluaran;
     
     @Override
