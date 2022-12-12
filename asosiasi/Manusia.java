@@ -1,7 +1,6 @@
 package asosiasi;
-
 public class Manusia {
-    public String merk, Processor;
+    public String merk;
     public Komputer Mesin;
     
     public void powerON(){
@@ -13,6 +12,6 @@ public class Manusia {
     }
     
     public void run(){
-        System.out.println("Komputer sedang menyala- active");
+        System.out.println("Komputer sedang menyala- active by Manusia");
     }
 }

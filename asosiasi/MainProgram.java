@@ -8,7 +8,6 @@ public class MainProgram {
         
         /* Memanggil atribut dan nilai */
         Mesin.merk = "Asus ROG 1";
-        Mesin.Processor = "Intel i7 10900 K";
         Mesin.Keluaran = 2020;
         
         Manusia Agus = new Manusia();
@@ -18,6 +17,5 @@ public class MainProgram {
         Agus.powerON();
         Agus.run();
         Agus.powerOFF();
-    }
-    
+    } 
 }
