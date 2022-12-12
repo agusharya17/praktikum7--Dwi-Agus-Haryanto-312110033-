@@ -8,7 +8,6 @@ public class MainProgram {
         
         /* Memanggil atribut dan nilai*/
         Mesin.merk = "with GTX 4090MX";
-        Mesin.Processor = "Intel i9 12900 KF";
         Mesin.Keluaran = 2022;
         
         Manusia Agus = new Manusia();

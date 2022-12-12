@@ -13,6 +13,6 @@ public class Manusia {
     }
     
     public void run(){
-        System.out.println("Komputer sedang dijalankan- active");
+        System.out.println("Komputer sedang dijalankan- active by Manusia");
     }
 }
