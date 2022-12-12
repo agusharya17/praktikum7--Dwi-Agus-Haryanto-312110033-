@@ -1,5 +1,4 @@
 package komposisi;
-
 public class Manusia {
     public String merk;
     public Komputer Mesin;
@@ -13,13 +12,11 @@ public class Manusia {
     public void powerON(){
         Mesin.powerON();
     }
-    
     public void powerOFF(){
         Mesin.powerOFF();
     }
     
     public void run(){
-        System.out.println("Komputer sedang berjalan- active");
-    }
-    
+        System.out.println("Komputer sedang berjalan- active by Manusia");
+    } 
 }
